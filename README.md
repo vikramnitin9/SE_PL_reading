@@ -1,7 +1,7 @@
 # My Reading Lists :
 This repo is a catalog of publications that I'm reading related to my research interests, in the field of Software Engineering and Programming Languages. For most of these, I've typed up a short summary/review.
 
-If you'd like to find out more about my current research and/or get in touch, here is my [personal website](vikramnitin9.github.io).
+If you'd like to find out more about my current research and/or get in touch, here is my [personal website](https://vikramnitin9.github.io).
 
 ## In-context and Few-shot Learning
 
