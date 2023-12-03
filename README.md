@@ -3,6 +3,11 @@ This repo is a catalog of publications that I'm reading related to my research i
 
 If you'd like to find out more about my current research and/or get in touch, here is my [personal website](https://vikramnitin9.github.io).
 
+## The Rust Programming Language
+
+1. [RustBelt: Securing the Foundations of the Rust Programming Language](https://people.mpi-sws.org/~dreyer/papers/rustbelt/paper.pdf)
+2. [Stacked Borrows: An Aliasing Model for Rust](https://dl.acm.org/doi/pdf/10.1145/3371109)
+
 ## In-context and Few-shot Learning
 
 1. [Learning to Retrieve Prompts for In-Context Learning](https://arxiv.org/pdf/2112.08633.pdf)
